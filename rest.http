@@ -1,0 +1,8 @@
+
+POST http://localhost:3000/api/retrieve-subscription-by-id HTTP/1.1
+content-type: application/json
+
+{
+    "subscriptionId":"sub_1L558qSEAKARE39grV7QNyRT"
+                      
+}
